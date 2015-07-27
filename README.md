@@ -1,5 +1,5 @@
 # Install
-Install from the official ModMyI Repository.
+Install from the official ModMyI Repository: http://modmyi.com/info/awesomezeppelinmusicians.php
 
 # Build
 * `find . -name '*.DS_Store' -type f -delete`
