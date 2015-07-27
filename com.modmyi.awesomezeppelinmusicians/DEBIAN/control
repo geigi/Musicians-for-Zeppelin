@@ -1,9 +1,9 @@
 Architecture: iphoneos-arm
 Name: Awesome Zeppelin Musicians
 Package: com.modmyi.awesomezeppelinmusicians
-Version: 0.1
-Size: 55kB
+Version: 0.2
+Size: 124kB
 Maintainer: Geigi <deb@geigi.de>
 Depends: com.alexzielenski.zeppelin
-Description: Contains three Band/Album logos: Blur, Gorillaz and Trxye (Troye Sivan) logo for Zeppelin.
+Description: Contains four Band/Album logos: Blur, Gorillaz, Troye Sivan (Trxye and Wild) logo for Zeppelin.
 Section: Themes
